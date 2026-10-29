@@ -41,26 +41,17 @@ Most of my work is in **Python** and **TypeScript**, with live projects deployed
 
 | Project | What it is |
 |---|---|
-| [Ffinfoall](https://github.com/Eizworld/Ffinfoall) | FF info tools — Python |
-| [ffinfo](https://github.com/Eizworld/ffinfo) | FF info project — Python |
-| [Tcpbot_obb54](https://github.com/Eizworld/Tcpbot_obb54) | Telegram bot — Python |
-| [Password-Generator](https://github.com/Eizworld/Password-Generator) | Password generator — Python |
 | [iptracker](https://github.com/Eizworld/iptracker) | IP tracker — Python |
-| [eizck](https://github.com/Eizworld/eizck) | Web project — HTML |
-| [Ff-bot](https://github.com/Eizworld/Ff-bot) | FF bot project |
+| [camera_eiz](https://github.com/Eizworld/camera_eiz) | Public repository |
+| [Msg](https://github.com/Eizworld/Msg) | Public repository |
 
 > Explore more in the repositories tab — bots, info tools, web apps and experiments.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Eizworld&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eizworld&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
-
-<br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eizworld&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
@@ -72,9 +63,8 @@ Most of my work is in **Python** and **TypeScript**, with live projects deployed
 
 | Project | Live site |
 |---|---|
-| eizbio | [eizbio.vercel.app](https://eizbio.vercel.app) |
 | earn-app | [earn-app-wine.vercel.app](https://earn-app-wine.vercel.app) |
-| ffidinfo | [ffidinfo-eight.vercel.app](https://ffidinfo-eight.vercel.app) |
+| youtubeeizsite | [youtubeeizsite-eizworlds-projects.vercel.app](https://youtubeeizsite-eizworlds-projects.vercel.app) |
 
 ---
 
